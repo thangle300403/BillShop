@@ -59,8 +59,8 @@ The BillShop system is organized into the following repositories:
 - **Admin & AI Orchestrator (ExpressJS)**  
   👉 https://github.com/thangle300403/Bill_expressjs_1410.git
 
-- **AI SQL Service (FastAPI)**  
-  👉 https://github.com/thangle300403/fast_api_1212.git
+- **AI Chatbot**  
+  👉 https://github.com/thangle300403/AI_Chatbot_LG_TS.git
 
 Each repository includes its own README with setup and implementation details.
 
